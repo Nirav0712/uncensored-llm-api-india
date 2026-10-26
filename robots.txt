@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://nirav0712.github.io/uncensored-llm-api-india/sitemap.xml
+
+# Uncensored LLM API for developers in India — OpenAI-compatible
+# Language model API with no ideological filter, OpenAI-compatible. Base https://uncensored-llm.sbs/v1, streaming, tool calling, runnable examples for Python and Node.
